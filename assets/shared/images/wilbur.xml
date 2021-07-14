@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="wilbur.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF Cheer0000.png" x="0" y="0" width="725" height="800"/>
+	<SubTexture name="GF Cheer0001.png" x="725" y="0" width="725" height="800"/>
+	<SubTexture name="GF Cheer0002.png" x="725" y="0" width="725" height="800"/>
+	<SubTexture name="GF Cheer0003.png" x="1450" y="0" width="725" height="800"/>
+	<SubTexture name="GF Cheer0004.png" x="1450" y="0" width="725" height="800"/>
+	<SubTexture name="GF Cheer0005.png" x="2175" y="0" width="725" height="800"/>
+	<SubTexture name="GF Cheer0006.png" x="2175" y="0" width="725" height="800"/>
+	<SubTexture name="GF Cheer0007.png" x="2900" y="0" width="725" height="800"/>
+	<SubTexture name="GF Cheer0008.png" x="2900" y="0" width="725" height="800"/>
+	<SubTexture name="GF Dancing Beat0000.png" x="3625" y="0" width="725" height="800"/>
+	<SubTexture name="GF Dancing Beat0001.png" x="4350" y="0" width="725" height="800"/>
+	<SubTexture name="GF Dancing Beat0002.png" x="5075" y="0" width="725" height="800"/>
+	<SubTexture name="GF Dancing Beat0003.png" x="5800" y="0" width="725" height="800"/>
+	<SubTexture name="GF Dancing Beat0004.png" x="6525" y="0" width="725" height="800"/>
+	<SubTexture name="GF Dancing Beat0005.png" x="7250" y="0" width="725" height="800"/>
+	<SubTexture name="GF Dancing Beat0006.png" x="0" y="800" width="725" height="800"/>
+	<SubTexture name="GF Dancing Beat0007.png" x="725" y="800" width="725" height="800"/>
+	<SubTexture name="GF Dancing Beat0008.png" x="1450" y="800" width="725" height="800"/>
+	<SubTexture name="GF Dancing Beat0009.png" x="2175" y="800" width="725" height="800"/>
+	<SubTexture name="GF Dancing Beat0010.png" x="2900" y="800" width="725" height="800"/>
+	<SubTexture name="GF Dancing Beat0011.png" x="3625" y="800" width="725" height="800"/>
+	<SubTexture name="GF Dancing Beat0012.png" x="4350" y="800" width="725" height="800"/>
+	<SubTexture name="GF Dancing Beat0013.png" x="5075" y="800" width="725" height="800"/>
+	<SubTexture name="GF Dancing Beat0015.png" x="5800" y="800" width="725" height="800"/>
+	<SubTexture name="GF Dancing Beat0016.png" x="0" y="800" width="725" height="800"/>
+	<SubTexture name="GF Dancing Beat0017.png" x="6525" y="800" width="725" height="800"/>
+	<SubTexture name="GF Dancing Beat0018.png" x="7250" y="800" width="725" height="800"/>
+	<SubTexture name="GF Dancing Beat0019.png" x="6525" y="800" width="725" height="800"/>
+	<SubTexture name="GF Down Note0000.png" x="0" y="1600" width="725" height="800"/>
+	<SubTexture name="GF Down Note0001.png" x="725" y="1600" width="725" height="800"/>
+	<SubTexture name="GF Down Note0002.png" x="1450" y="1600" width="725" height="800"/>
+	<SubTexture name="GF Down Note0003.png" x="2175" y="1600" width="725" height="800"/>
+	<SubTexture name="GF FEAR 0000.png" x="2900" y="1600" width="725" height="800"/>
+	<SubTexture name="GF FEAR 0001.png" x="2900" y="1600" width="725" height="800"/>
+	<SubTexture name="GF FEAR 0002.png" x="3625" y="1600" width="725" height="800"/>
+	<SubTexture name="GF FEAR 0003.png" x="3625" y="1600" width="725" height="800"/>
+	<SubTexture name="GF FEAR 0004.png" x="4350" y="1600" width="725" height="800"/>
+	<SubTexture name="GF FEAR 0005.png" x="4350" y="1600" width="725" height="800"/>
+	<SubTexture name="GF FEAR 0006.png" x="5075" y="1600" width="725" height="800"/>
+	<SubTexture name="GF FEAR 0007.png" x="5075" y="1600" width="725" height="800"/>
+	<SubTexture name="GF Right Note0000.png" x="5800" y="1600" width="725" height="800"/>
+	<SubTexture name="GF Right Note0001.png" x="6525" y="1600" width="725" height="800"/>
+	<SubTexture name="GF Right Note0002.png" x="7250" y="1600" width="725" height="800"/>
+	<SubTexture name="GF Right Note0003.png" x="0" y="2400" width="725" height="800"/>
+	<SubTexture name="GF Up Note0000.png" x="5800" y="1600" width="725" height="800"/>
+	<SubTexture name="GF Up Note0001.png" x="725" y="2400" width="725" height="800"/>
+	<SubTexture name="GF Up Note0002.png" x="1450" y="2400" width="725" height="800"/>
+	<SubTexture name="GF Up Note0003.png" x="2175" y="2400" width="725" height="800"/>
+	<SubTexture name="GF left note0000.png" x="0" y="1600" width="725" height="800"/>
+	<SubTexture name="GF left note0001.png" x="2900" y="2400" width="725" height="800"/>
+	<SubTexture name="GF left note0002.png" x="3625" y="2400" width="725" height="800"/>
+	<SubTexture name="GF left note0003.png" x="4350" y="2400" width="725" height="800"/>
+	<SubTexture name="gf sad0000.png" x="0" y="1600" width="725" height="800"/>
+	<SubTexture name="gf sad0001.png" x="5075" y="2400" width="725" height="800"/>
+	<SubTexture name="gf sad0002.png" x="5075" y="2400" width="725" height="800"/>
+	<SubTexture name="gf sad0003.png" x="5800" y="2400" width="725" height="800"/>
+	<SubTexture name="gf sad0004.png" x="5800" y="2400" width="725" height="800"/>
+	<SubTexture name="gf sad0005.png" x="6525" y="2400" width="725" height="800"/>
+	<SubTexture name="gf sad0006.png" x="6525" y="2400" width="725" height="800"/>
+	<SubTexture name="gf sad0007.png" x="7250" y="2400" width="725" height="800"/>
+	<SubTexture name="gf sad0008.png" x="7250" y="2400" width="725" height="800"/>
+</TextureAtlas>
